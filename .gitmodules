@@ -1,0 +1,3 @@
+[submodule "3rdparty/visionegg.git"]
+	path = 3rdparty/visionegg.git
+	url = git://github.com/visionegg/visionegg.git
